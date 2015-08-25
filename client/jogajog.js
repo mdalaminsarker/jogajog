@@ -1,0 +1,6 @@
+
+Meteor.Router.add({
+
+    '/': 'home'
+
+});
