@@ -16,7 +16,7 @@
         "commit": "b99ed8380aefd10b2afc8f18d9eed4dd0d8ea9cb"
       },
       "HTML5-History-API": {
-        "git": "https://github.com/tmeasday/meteor-html5-history-api.git",
+        "git": "https://github.com/tmeasday/meteor-HTML5-History-API.git",
         "tag": "v4.1.2",
         "commit": "b5fca79f9ae8936e5f748a04f475295f4fa1cc7a"
       }

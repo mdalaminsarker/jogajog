@@ -1,6 +1,3 @@
 
-Meteor.Router.add({
-
-    '/': 'home'
-
-});
+Router.route('/home');
+Router.route('/mes');
